@@ -1,0 +1,45 @@
+#colorPicker .gridCell{
+	display: inline-block;
+	width: 10px;
+	height: 10px;
+}
+
+#spaceDiv{
+	display: inline-block;
+	width: 100px;
+	height: 100px;
+	background-color: grey;
+	border: thin solid #c8c8c8;
+}
+
+#colorPanel .gridCell{
+	display: inline-block;
+	width: 20px;
+	height: 20px;
+	border: thin solid #c8c8c8;
+}
+
+#colorPanel{
+/*	background-color: yellow; */
+}
+
+#colorPicker{
+	background-color: teal;	
+	//display: inline;
+	vertical-align: top;
+}
+
+.gridCell{
+	width: 10px;
+	height: 15px;
+	
+	display: inline-block;
+}
+
+
+.drawContainer{
+	/*width: 200px;
+	height: 350px;*/
+	display: inline-block;
+	border: thin solid #c8c8c8;
+}
